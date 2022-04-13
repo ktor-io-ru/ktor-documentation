@@ -5,3 +5,5 @@
 Русскоязычная документация к веб-фреймворку Ktor.
 
 Документация является переводом официальной, расположенной по данному адресу: https://ktor.io/docs/
+
+[Начало](https://github.com/ktor-io-ru/ktor-documentation/blob/main/welcome.md)
