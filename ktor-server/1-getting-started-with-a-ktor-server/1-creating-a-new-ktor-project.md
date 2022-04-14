@@ -146,7 +146,7 @@ Community Edition, используйте [генератор проектов K
 # Следующие шаги
 
 Создавайте реальные приложения Ktor с помощью руководств:
-- [Создание HTTP-API](https://github.com/ktor-io-ru/ktor-documentation/blob/main/ktor-server/1-getting-started-with-a-ktor-server/2-creating-HTTP-APIs.md)
+- [Создание HTTP-API](https://github.com/ktor-io-ru/ktor-documentation/blob/main/ktor-server/1-getting-started-with-a-ktor-server/2-creating-HTTP-API.md)
 - [Создание интерактивного веб-сайта](https://github.com/ktor-io-ru/ktor-documentation/tree/main/ktor-server/2-creating-a-website)
 - [Создание чата WebSocket](https://github.com/ktor-io-ru/ktor-documentation/blob/main/ktor-server/3-creating-a-WebSocket-chat%EF%BB%BF.md)
 
